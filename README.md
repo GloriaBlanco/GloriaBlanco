@@ -1,7 +1,5 @@
-## Hi there 👋
-
-### Olá, meu nome é **Gloria Blanco** ✨ 
-### Bem vindo ao meu perfil do GitHub ✨ 
+## Olá👋😉 meu nome é **Gloria Blanco** ✨ 
+### Bem vindo ao meu perfil do GitHub 🐥 ✨ 
 
 
 - 👩🏻‍💻 Atualmente estou estudando no Bootcamp da Alura
