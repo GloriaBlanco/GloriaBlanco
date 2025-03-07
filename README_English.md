@@ -1,14 +1,14 @@
-## Hi there 👋😉 my name is **Gloria Blanco** ✨ 
+## Hello 👋😉 my name is **Gloria Blanco** ✨ 
 ### Welcome to my GitHub profile 🐥 ✨ 
 
+👩🏻‍💻 I am currently studying at Alura's Bootcamp
 
-- 👩🏻‍💻 I'm currently studying at Alura's Bootcamp
-  
-- 🍀 Daily I train data analysis with Python and statistics, I choose random subjects for analysis
+🌨️ I was accepted into the Escola da Nuvem for the AWS course that starts in April/25
 
-- 🦋 In January I graduated from the WoMakersCode BootCamp in Data Analytics
+🍀 I practice data analysis with python and statistics every day, choosing random topics for analysis
 
-- 🌨️ I'm looking for a free course to learn AWS
+🦋 In January I graduated from the WoMakersCode BootCamp in Data Analytics
 
-- 📚 I have a degree in Mathematics with Information Technology, emphasis on Computer Science.
-- 📫 You can contact me  [LINKEDIN](https://www.linkedin.com/in/gloriablanco/)
+📚 I have a degree in Mathematics with Informatics, with an emphasis on Computer Science.
+
+📫 You can contact me  [LINKEDIN](https://www.linkedin.com/in/gloriablanco/)
