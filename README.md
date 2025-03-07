@@ -3,6 +3,8 @@
 
 
 - 👩🏻‍💻 Atualmente estou estudando no Bootcamp da Alura
+
+- 👩🏻‍💻 Fui aprovada na Escola de Nuvem para curso de AWS que inicia em abril/25 
   
 - 🍀 Diariamente treino análise de dados com python e estatística, escolho assuntos aleatórios para análise
 
