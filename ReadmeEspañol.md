@@ -11,4 +11,5 @@ Bienvenido a mi perfil de GitHub 🐥 ✨
 
 📚Soy Licenciada en Matemáticas con Tecnologías de la Información, énfasis en Informática.
 
-📫 Puedes contactarme a través de LINKEDIN
+📫 Puedes contactarme a través de [LINKEDIN](https://www.linkedin.com/in/gloriablanco/)
+ LINKEDIN
