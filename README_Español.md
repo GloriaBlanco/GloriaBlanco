@@ -1,9 +1,11 @@
 ## Hola👋😉 mi nombre es Gloria Blanco ✨
 ## Bienvenido a mi perfil de GitHub 🐥 ✨
 
-👩🏻‍💻 Actualmente estoy estudiando en Alura's Bootcamp
-
-🌨️ Fui aprobado en la Escola da Nuvem para el curso de AWS que comienza el 25/abril
+👩🏻‍💻🍀 Actualmente estoy participando:
+  🐥 ONE G8|Alura: Bootcamp de Back-End
+  🌨️ Escola da Nuvem: capacitación AWS 
+  🧿 PrograMaria: Analisis de Datos
+  🎀 SerMulherTech: programa de tutoria
 
 🍀 Diariamente entreno análisis de datos con Python y estadísticas, elijo sujetos aleatorios para el análisis
 

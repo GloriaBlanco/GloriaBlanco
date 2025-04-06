@@ -1,11 +1,11 @@
 ## Hello 👋😉 my name is **Gloria Blanco** ✨ 
 ### Welcome to my GitHub profile 🐥 ✨ 
 
-👩🏻‍💻 I am currently studying at Alura's Bootcamp
-
-🌨️ I was accepted into the Escola da Nuvem for the AWS course that starts in April/25
-
-🍀 I practice data analysis with python and statistics every day, choosing random topics for analysis
+👩🏻‍💻🍀 I am currently participating in:
+    🐥 ONE G8|Alura: Back-End Bootcamp
+    🌨️ Escola da Nuvem: AWS training
+    🧿 PrograMaria: Data Analysis
+    🎀 SerMulherTech: mentoring program
 
 🦋 In January I graduated from the WoMakersCode BootCamp in Data Analytics
 
