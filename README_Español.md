@@ -1,5 +1,5 @@
 ## Hola👋😉 mi nombre es Gloria Blanco ✨
-## Bienvenido a mi perfil de GitHub 🐥 ✨
+### Bienvenido a mi perfil de GitHub 🐥 ✨
 
 👩🏻‍💻🍀 Actualmente estoy participando:
 

@@ -3,13 +3,14 @@
 
 👩🏻‍💻🍀 Atualmente estou participando:
 
-   🐥 ONE G8|Alura: Bootcamp de Back-End
+    🐥 ONE G8|Alura: Bootcamp de Back-End
 
-   🌨️ Escola da Nuvem: treinamento AWS 
+    🌨️ Escola da Nuvem: treinamento AWS  
 
-   🧿 PrograMaria: Analista de Dados
+    🧿 PrograMaria: Analista de Dados
 
-   🎀 SerMulherTech: programa de mentoria
+    🎀 SerMulherTech: programa de mentoria
+
 
 🦋 Em janeiro me formei no BootCamp da WoMakersCode em Data Analytics
 
