@@ -2,10 +2,14 @@
 ## Bienvenido a mi perfil de GitHub 🐥 ✨
 
 👩🏻‍💻🍀 Actualmente estoy participando:
-  🐥 ONE G8|Alura: Bootcamp de Back-End
-  🌨️ Escola da Nuvem: capacitación AWS 
-  🧿 PrograMaria: Analisis de Datos
-  🎀 SerMulherTech: programa de tutoria
+
+    🐥 ONE G8|Alura: Bootcamp de Back-End
+
+    🌨️ Escola da Nuvem: capacitación AWS 
+
+    🧿 PrograMaria: Analisis de Datos
+
+    🎀 SerMulherTech: programa de tutoria
 
 🍀 Diariamente entreno análisis de datos con Python y estadísticas, elijo sujetos aleatorios para el análisis
 
