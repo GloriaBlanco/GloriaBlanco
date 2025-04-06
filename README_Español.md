@@ -11,7 +11,6 @@
 
     🎀 SerMulherTech: programa de tutoria
 
-🍀 Diariamente entreno análisis de datos con Python y estadísticas, elijo sujetos aleatorios para el análisis
 
 🦋 En enero me gradué del WoMakersCode BootCamp en Análisis de Datos
 
