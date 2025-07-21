@@ -5,16 +5,37 @@
 
     🐥 ONE G8|Alura: Bootcamp de Back-End
 
-    🌨️ Escola da Nuvem: treinamento AWS  
-
-    🧿 PrograMaria: Analista de Dados
-
-    🎀 SerMulherTech: programa de mentoria
+    🌨️ Escola da Nuvem: treinamento AWS Cloud 
 
 
-🦋 Em janeiro me formei no BootCamp da WoMakersCode em Data Analytics
+✅👩🏻‍💻🍀 Já concluídos
 
-📚 Sou formada em Matemática com Informática, ênfase em Ciência da Computação.
+	📚 PrograMaria: Analista de Dados - 2025
+
+	📚 SerMulherTech: programa de mentoria - 2025
+
+	📚 BootCamp da WoMakersCode: Data Analytics -2024
+
+	📚 Senai: Web Design Front-End - 2024
+
+	📚 Senai: Fundamentos em Python - 2024
+
+	📚 Senai : Google Cloud Foundations - 2023
+
+	📚 Senac : Business Intelligence com Power BI - 2022
+
+	📚 Impacta: Introduçao à Programação Orientada a Objetos - 2008
+
+	📚 Impacta: Lógica de Programação - 2008
+	
+	📚 Impacta: Java Programmer - Módulo I e II - 2008
+
+	📚 Impacta: SQL2005 - 2008
+
+	📚 Impacta: UML - Linguagem Orientada a Objetos - 2008
+
+    📚 Sou formada em Matemática com Informática, ênfase em Ciência da Computação - 2000
+	
 
 📫 Pode entrar em contato comigo pelo [LINKEDIN](https://www.linkedin.com/in/gloriablanco/)
   

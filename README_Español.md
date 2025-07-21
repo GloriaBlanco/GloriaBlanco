@@ -1,19 +1,40 @@
 ## Hola👋😉 mi nombre es Gloria Blanco ✨
 ### Bienvenido a mi perfil de GitHub 🐥 ✨
 
-👩🏻‍💻🍀 Actualmente estoy participando:
+👩🏻‍💻🍀 Actualmente estoy participando en:
 
-    🐥 ONE G8|Alura: Bootcamp de Back-End
+    🐥 ONE G8|Alura: Bootcamp Back-End
 
-    🌨️ Escola da Nuvem: capacitación AWS 
-
-    🧿 PrograMaria: Analisis de Datos
-
-    🎀 SerMulherTech: programa de tutoria
+    🌨️ Escola da Nuvem: Capacitación en AWS Cloud
 
 
-🦋 En enero me gradué del WoMakersCode BootCamp en Análisis de Datos
+✅👩🏻‍💻🍀 Ya lo completé
 
-📚Soy Licenciada en Matemáticas con Tecnologías de la Información, énfasis en Informática.
+    📚 PrograMaria: Analista de Datos - 2025
+
+    📚 SerMulherTech: Programa de Mentoría - 2025
+
+    📚 WoMakersCode BootCamp: Análisis de Datos - 2024
+
+    📚 Senai: Diseño Web Front-End - 2024
+
+    📚 Senai: Fundamentos de Python - 2024
+
+    📚 Senai: Fundamentos de Google Cloud - 2023
+
+    📚 Senac: Inteligencia de Negocios con Power BI - 2022
+
+    📚 Impacta: Introducción a la Programación Orientada a Objetos - 2008
+
+    📚 Impacta: Lógica de Programación - 2008
+
+    📚 Impacta: Programador Java - Módulos I y II - 2008
+
+    📚 Impacta: SQL2005 - 2008
+
+    📚 Impacta: UML - Lenguaje Orientado a Objetos - 2008
+
+    📚 Soy Licenciada en Matemáticas con mención en Informática 2000
+
 
 📫 Puedes contactarme a través de [LINKEDIN](https://www.linkedin.com/in/gloriablanco/)
