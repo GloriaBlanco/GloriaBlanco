@@ -3,9 +3,7 @@
 
 👩🏻‍💻🍀 Atualmente estou participando:
 
-    🐥 ONE G8|Alura: Bootcamp de Back-End
-
-    🌨️ Escola da Nuvem: treinamento AWS Cloud 
+    🌨️ Escola da Nuvem: AWS Cloud Módulo IA 
 
 
 ✅👩🏻‍💻🍀 Já concluídos
