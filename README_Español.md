@@ -10,7 +10,7 @@
 
     📚 PrograMaria: Analista de Datos - 2025
 
-    📚 Certified Cloud Practitioner - 2025 - validez até 27/08/28
+    📚 AWS - Certified Cloud Practitioner - 2025 - validez até 27/08/28
 
 	📚 Escola da Nuvem: AWS re/Start Graduate - 2025
 
