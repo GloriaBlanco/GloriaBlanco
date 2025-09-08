@@ -6,9 +6,13 @@
     🌨️ Escola da Nuvem: AWS Cloud IA
 
 
-✅👩🏻‍💻🍀 Already completed
+✅👩🏻‍💻🍀 Achievements
 
     📚 PrograMaria: Data Analyst - 2025
+
+   	📚 Certified Cloud Practitioner - 2025 - validity até 27/08/28
+
+	📚 Escola da Nuvem: AWS re/Start Graduate - 2025
 
     📚 SerMulherTech: mentoring program - 2025
 
