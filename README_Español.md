@@ -3,7 +3,7 @@
 
 👩🏻‍💻🍀 Actualmente estoy participando en:
 
-      🌨️ Escola da Nuvem: AWS Cloud IA
+      🌨️ Escola da Nuvem: AWS Developer
 
 
 ✅👩🏻‍💻🍀 Logros
@@ -13,6 +13,8 @@
     📚 AWS - Certified Cloud Practitioner - 2025 - validez até 27/08/28
 
 	📚 Escola da Nuvem: AWS re/Start Graduate - 2025
+
+    📚 Escola da Nuvem: AWS Cloud Módulo IA - 2025
 
     📚 SerMulherTech: Programa de Mentoría - 2025
 
