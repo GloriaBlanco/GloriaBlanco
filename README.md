@@ -3,40 +3,42 @@
 
 👩🏻‍💻🍀 Atualmente estou participando:
 
-    🌨️ Escola da Nuvem: AWS Developer 
+	👩🏻‍💻 Jornada Python: Machine Learning, Análise de dados, ChatBoot com IA, ChatBoot Automação de Tarefas - Hashtag Programação -2026 
 
 
 ✅👩🏻‍💻🍀 Conquistas
 
-	📚 PrograMaria: Analista de Dados - 2025
+	📚 Data Analytics - BootCamp da WoMakersCode - 2024
+	
+	📚 Analista de Dados - PrograMaria - 2025
+
+	📚 Programa de mentoria - mentorada pela SerMulherTech- 2025
 
 	📚 AWS - Certified Cloud Practitioner - 2025 -  validade até 27/08/28
 
-	📚 Escola da Nuvem: AWS re/Start Graduate - 2025
+	📚 AWS re/Start Graduate - Escola da Nuvem - 2025
 
-	📚 Escola da Nuvem: AWS Cloud Módulo IA - 2025
+	📚 AWS Cloud Módulo IA - Escola da Nuvem - 2025
 
-	📚 SerMulherTech: programa de mentoria - 2025
+    📚 AWS Developer - Escola da Nuvem - 2025 
 
-	📚 BootCamp da WoMakersCode: Data Analytics -2024
+	📚 Web Design Front-End - Senai - 2024
 
-	📚 Senai: Web Design Front-End - 2024
+	📚 Fundamentos em Python - Senai - 2024
 
-	📚 Senai: Fundamentos em Python - 2024
+	📚 Google Cloud Foundations - Senai - 2023
 
-	📚 Senai : Google Cloud Foundations - 2023
+	📚 Business Intelligence com Power BI - Senai -  2022
 
-	📚 Senac : Business Intelligence com Power BI - 2022
+	📚 Introduçao à Programação Orientada a Objetos - Impacta - 2008
 
-	📚 Impacta: Introduçao à Programação Orientada a Objetos - 2008
-
-	📚 Impacta: Lógica de Programação - 2008
+	📚 Lógica de Programação - Impacta - 2008
 	
-	📚 Impacta: Java Programmer - Módulo I e II - 2008
+	📚 Java Programmer - Módulo I e II  Impacta - 2008
 
-	📚 Impacta: SQL2005 - 2008
+	📚 SQL2005 -Impacta - 2008
 
-	📚 Impacta: UML - Linguagem Orientada a Objetos - 2008
+	📚 UML - Linguagem Orientada a Objetos - Impacta - 2008
 
     📚 Sou formada em Matemática com Informática, ênfase em Ciência da Computação - 2000
 	

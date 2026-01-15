@@ -3,40 +3,42 @@
 
 👩🏻‍💻🍀 I'm currently participating in:
 
-    🌨️ Escola da Nuvem: AWS Developer
+    👩🏻‍💻 Python Journey: Machine Learning, Data Analysis, AI Chatbot, Task Automation Chatbot - Hashtag Programação - 2026
 
 
 ✅👩🏻‍💻🍀 Achievements
 
-    📚 PrograMaria: Data Analyst - 2025
+	📚 Data Analytics - BootCamp da WoMakersCode - 2024
+	
+	📚 Data Analytics - PrograMaria - 2025
 
-   	📚 AWS - Certified Cloud Practitioner - 2025 - validity até 27/08/28
+	📚 Mentorship Program - Mentored by SerMulherTech - 2025
 
-	📚 Escola da Nuvem: AWS re/Start Graduate - 2025
+	📚 AWS - Certified Cloud Practitioner - 2025 -  validity 27/08/28
 
-    📚 Escola da Nuvem: AWS Cloud Módulo IA - 2025
+	📚 AWS re/Start Graduate - Escola da Nuvem - 2025
 
-    📚 SerMulherTech: mentoring program - 2025
+	📚 AWS Cloud Módulo IA - Escola da Nuvem - 2025
 
-    📚 WoMakersCode BootCamp: Data Analytics - 2024
+    📚 AWS Developer - Escola da Nuvem - 2025 
 
-    📚 Senai: Front-End Web Design - 2024
+	📚 Web Design Front-End - Senai - 2024
 
-    📚 Senai: Fundamentals in Python - 2024
+	📚 Fundamentals in Python - Senai - 2024
 
-    📚 Senai: Google Cloud Foundations - 2023
+	📚 Google Cloud Foundations - Senai - 2023
 
-    📚 Senac: Business Intelligence with Power BI - 2022
+	📚 Business Intelligence con Power BI - Senai -  2022
 
-    📚 Impacta: Introduction to Object-Oriented Programming - 2008
+	📚 Introduction to Object-Oriented Programming - Impacta - 2008
 
-    📚 Impacta: Programming Logic - 2008
+	📚 Programming Logic - Impacta - 2008
+	
+	📚 Java Programmer - Módulo I e II  Impacta - 2008
 
-    📚 Impacta: Java Programmer - Modules I and II - 2008
+	📚 SQL2005 -Impacta - 2008
 
-    📚 Impacta: SQL2005 - 2008
-
-    📚 Impacta: UML - Object-Oriented Language - 2008
+	📚 UML - Object-Oriented Language - Impacta - 2008
 
     📚 I have a degree in Mathematics with Informatics, with an emphasis on Computer Science - 2000
 

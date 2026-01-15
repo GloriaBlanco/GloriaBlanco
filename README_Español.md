@@ -3,40 +3,42 @@
 
 👩🏻‍💻🍀 Actualmente estoy participando en:
 
-      🌨️ Escola da Nuvem: AWS Developer
+    👩🏻‍💻 Jornada Python: Machine Learning, Análisis de Datos, Chatbot con IA, Chatbot de Automatización de Tareas - Hashtag Programação - 2026
 
 
 ✅👩🏻‍💻🍀 Logros
 
-    📚 PrograMaria: Analista de Datos - 2025
+	📚 Data Analytics - BootCamp da WoMakersCode - 2024
+	
+	📚 Analista de Datos - PrograMaria - 2025
 
-    📚 AWS - Certified Cloud Practitioner - 2025 - validez até 27/08/28
+	📚 Programa de Mentoría - Mentorada por SerMulherTech - 2025
 
-	📚 Escola da Nuvem: AWS re/Start Graduate - 2025
+	📚 AWS - Certified Cloud Practitioner - 2025 -  validez 27/08/28
 
-    📚 Escola da Nuvem: AWS Cloud Módulo IA - 2025
+	📚 AWS re/Start Graduate - Escola da Nuvem - 2025
 
-    📚 SerMulherTech: Programa de Mentoría - 2025
+	📚 AWS Cloud Módulo IA - Escola da Nuvem - 2025
 
-    📚 WoMakersCode BootCamp: Análisis de Datos - 2024
+    📚 AWS Developer - Escola da Nuvem - 2025 
 
-    📚 Senai: Diseño Web Front-End - 2024
+	📚 Web Design Front-End - Senai - 2024
 
-    📚 Senai: Fundamentos de Python - 2024
+	📚 Fundamentos em Python - Senai - 2024
 
-    📚 Senai: Fundamentos de Google Cloud - 2023
+	📚 Google Cloud Foundations - Senai - 2023
 
-    📚 Senac: Inteligencia de Negocios con Power BI - 2022
+	📚 Business Intelligence con Power BI - Senai -  2022
 
-    📚 Impacta: Introducción a la Programación Orientada a Objetos - 2008
+	📚 Introducción a la Programación Orientada a Objetos - Impacta - 2008
 
-    📚 Impacta: Lógica de Programación - 2008
+	📚 Lógica de Programación - Impacta - 2008
+	
+	📚 Java Programmer - Módulo I e II  Impacta - 2008
 
-    📚 Impacta: Programador Java - Módulos I y II - 2008
+	📚 SQL2005 -Impacta - 2008
 
-    📚 Impacta: SQL2005 - 2008
-
-    📚 Impacta: UML - Lenguaje Orientado a Objetos - 2008
+	📚 UML - Lenguaje Orientado a Objetos - Impacta - 2008
 
     📚 Soy Licenciada en Matemáticas con mención en Informática 2000
 
