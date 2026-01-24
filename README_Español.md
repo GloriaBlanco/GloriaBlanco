@@ -3,8 +3,7 @@
 
 👩🏻‍💻🍀 Actualmente estoy participando en:
 
-    👩🏻‍💻 Jornada Python: Machine Learning, Análisis de Datos, Chatbot con IA, Chatbot de Automatización de Tareas - Hashtag Programação - 2026
-
+    👩🏻‍💻 Python: desarrollando proyectos de Análisis de Datos, Machine Learning y estudiando para la certificación Python - 2026
 
 ✅👩🏻‍💻🍀 Logros
 
@@ -12,6 +11,8 @@
 	
 	📚 Analista de Datos - PrograMaria - 2025
 
+	📚 Python: Machine Learning, Análisis de Datos, Chatbot con IA, Chatbot de Automatización de Tareas - Hashtag - 2026
+	
 	📚 Programa de Mentoría - Mentorada por SerMulherTech - 2025
 
 	📚 AWS - Certified Cloud Practitioner - 2025 -  validez 27/08/28

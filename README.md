@@ -1,16 +1,17 @@
 ## Olá👋😉 meu nome é **Gloria Blanco** ✨ 
 ### Bem vindo ao meu perfil do GitHub 🐥 ✨ 
 
-👩🏻‍💻🍀 Atualmente estou participando:
+👩🏻‍💻🍀 Atualmente estou:
 
-	👩🏻‍💻 Jornada Python: Machine Learning, Análise de dados, ChatBoot com IA, ChatBoot Automação de Tarefas - Hashtag Programação -2026 
-
+	👩🏻‍💻 Python: desenvolvendo projetos Data Analytics, Machine Learning e estudando para certificação Python -2026 
 
 ✅👩🏻‍💻🍀 Conquistas
 
 	📚 Data Analytics - BootCamp da WoMakersCode - 2024
 	
 	📚 Analista de Dados - PrograMaria - 2025
+
+	📚 Python: Machine Learning, Análise de dados, ChatBoot com IA, ChatBoot Automação de Tarefas - Hashtag - 2026 
 
 	📚 Programa de mentoria - mentorada pela SerMulherTech- 2025
 
